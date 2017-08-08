@@ -1,12 +1,16 @@
 {
 	"auto_complete_cycle": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
 	"draw_centered": true,
 	"draw_minimap_border": true,
-	"ensure_newline_at_eof_on_save": true,
+	"ensure_newline_at_eof_on_save": false,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -59,6 +63,8 @@
 		"draw_active"
 	],
 	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"match_brackets_angle": true,
 	"mouse_wheel_switches_tabs": true,
 	"show_encoding": true,
@@ -68,5 +74,6 @@
 	"theme": "Cobalt2.sublime-theme",
 	"trim_automatic_white_space": false,
 	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
 	"word_wrap": true
 }
