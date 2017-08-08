@@ -1,0 +1,72 @@
+{
+	"auto_complete_cycle": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
+	"draw_centered": true,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.meta",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.woff",
+		"*.woff2",
+		"*.eot"
+	],
+	"folder_exclude_patterns":
+	[
+		".vs",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".nuget"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 10,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": true,
+	"match_brackets_angle": true,
+	"mouse_wheel_switches_tabs": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"sidebar_font_big": true,
+	"tab_completion": false,
+	"theme": "Cobalt2.sublime-theme",
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

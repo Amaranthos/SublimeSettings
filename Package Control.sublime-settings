@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ASCII Decorator",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Brackets Color Scheme",
+		"Case Conversion",
+		"Color Highlighter",
+		"Diffy",
+		"Fold Comments",
+		"GitGutter",
+		"GLSL Validator",
+		"Indent XML",
+		"Jade",
+		"Markdown Preview",
+		"Minifier",
+		"OpenGL Shading Language (GLSL)",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"PowerShell",
+		"RESTer HTTP Client",
+		"SDLang",
+		"Stylus",
+		"Stylus-Snippets",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Cobalt2",
+		"Unity3D",
+		"Unity3D Shader Highlighter and Snippets"
+	]
+}
