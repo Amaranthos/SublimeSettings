@@ -1,5 +1,6 @@
 *
 
 !.gitignore
+!*.sublime-project
 !*.sublime-settings
 !*.sublime-keymap
