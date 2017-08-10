@@ -40,6 +40,7 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-javac",
 		"SublimeLinter-json",
 		"Theme - Cobalt2",
 		"Unity3D",
