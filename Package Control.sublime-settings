@@ -12,7 +12,6 @@
 		"Brackets Color Scheme",
 		"Case Conversion",
 		"Chrome Snippets",
-		"Cobalt2 Flat Theme",
 		"Color Highlighter",
 		"Diffy",
 		"FindKeyConflicts",
@@ -44,6 +43,8 @@
 		"SublimeLinter-json",
 		"Theme - Cobalt2",
 		"TypeScript",
+		"Travis YML Lint",
+		"Travis-CI",
 		"Unity3D",
 		"Unity3D Shader Highlighter and Snippets"
 	]
