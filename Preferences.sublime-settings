@@ -37,7 +37,12 @@
 		"*.sublime-workspace",
 		"*.woff",
 		"*.woff2",
-		"*.eot"
+		"*.eot",
+		"*.css",
+		"*.min.js",
+		"*.bundle.js",
+		"*.bundle.css",
+		"*.css.map"
 	],
 	"folder_exclude_patterns":
 	[
