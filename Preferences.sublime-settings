@@ -10,7 +10,7 @@
 	"default_line_ending": "unix",
 	"draw_centered": true,
 	"draw_minimap_border": true,
-	"ensure_newline_at_eof_on_save": true,
+	"ensure_newline_at_eof_on_save": false,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -37,7 +37,12 @@
 		"*.sublime-workspace",
 		"*.woff",
 		"*.woff2",
-		"*.eot"
+		"*.eot",
+		"*.css",
+		"*.min.js",
+		"*.bundle.js",
+		"*.bundle.css",
+		"*.css.map"
 	],
 	"folder_exclude_patterns":
 	[
@@ -55,6 +60,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"TypeScript",
 		"Vintage"
 	],
 	"indent_guide_options":

@@ -2,21 +2,19 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TypeScript"
 	],
 	"installed_packages":
 	[
-		"Angular CLI",
-		"Angular2 HTML Syntax",
 		"ASCII Decorator",
-		"Babel",
 		"Babel Snippets",
+		"Babel",
 		"BracketHighlighter",
 		"Brackets Color Scheme",
 		"Case Conversion",
 		"Chrome Snippets",
 		"Color Highlighter",
 		"Diffy",
-		"EditorConfig",
 		"FindKeyConflicts",
 		"Fold Comments",
 		"Git",
@@ -42,12 +40,13 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-javac",
 		"SublimeLinter-json",
 		"Theme - Cobalt2",
 		"Travis YML Lint",
 		"Travis-CI",
-		"TypeScript Syntax",
-		"Unity3D",
-		"Unity3D Shader Highlighter and Snippets"
+		"TypeScript",
+		"Unity3D Shader Highlighter and Snippets",
+		"Unity3D"
 	]
 }
