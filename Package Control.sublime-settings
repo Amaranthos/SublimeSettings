@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"Angular CLI",
+		"Angular2 HTML Syntax",
 		"ASCII Decorator",
 		"Babel",
 		"Babel Snippets",
@@ -14,6 +16,7 @@
 		"Chrome Snippets",
 		"Color Highlighter",
 		"Diffy",
+		"EditorConfig",
 		"FindKeyConflicts",
 		"Fold Comments",
 		"Git",
@@ -43,6 +46,7 @@
 		"Theme - Cobalt2",
 		"Travis YML Lint",
 		"Travis-CI",
+		"TypeScript Syntax",
 		"Unity3D",
 		"Unity3D Shader Highlighter and Snippets"
 	]

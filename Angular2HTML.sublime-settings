@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the Angular2HTML syntax
+{
+	"extensions": ["component.html"]
+}
