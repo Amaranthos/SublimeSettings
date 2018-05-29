@@ -1,0 +1,18 @@
+// GitGutter Settings - User
+{
+	 "status_bar_text": [
+	 	"{{repo}} - {{branch}}",
+	 	"{% if ahead != 0 %} - {{ahead}} commits ahead{% endif %}",
+	 	"{% if behind != 0 %} - {{behind}} commits behind{% endif %}",
+	 	"{% if added_files != 0 or deleted_files != 0 or modified_files != 0 or staged_files != 0 %} - Files{% endif %}",
+	 	"{% if added_files != 0 %} {{added_files}}+{% endif %}",
+	 	"{% if deleted_files != 0 %} {{deleted_files}}-{% endif %}",
+	 	"{% if modified_files != 0 %} {{modified_files}}≠{% endif %}",
+	 	"{% if staged_files != 0 %} {{staged_files}}±{% endif %}",
+	 	"{% if deleted != 0 or inserted != 0 or modified != 0 %} - Lines {% endif %}",
+	 	"{% if deleted != 0 %} {{deleted}}-{% endif %}",
+	 	"{% if inserted != 0 %} {{inserted}}+{% endif %}",
+	 	"{% if modified != 0 %} {{modified}}≠{% endif %}",
+	 	" - {{state}}"
+    ]
+}

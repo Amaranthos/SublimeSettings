@@ -2,7 +2,7 @@
     "response_group": 1,
     "response_group_clean": true,
     "request_focus": true,
-    "body_only": true,
+    "body_only": false,
     "response_commands": [
     	"pretty_json",
     	{
